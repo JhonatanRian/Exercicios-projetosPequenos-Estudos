@@ -9,6 +9,8 @@ Dicas:
 '''
 from math import hypot
 
-x = float(input('Valor do lado x: '))
-y = float(input('Valor do lado y: '))
-print(f'O valor da hipotenusa é {hypot(x, y):.2f}')
+cateto_a = float(input('Cateto oposto: '))
+cateto_o = float(input('Cateto adjacente: '))
+
+print(f'O valor da hipotenusa é {(cateto_o**2+cateto_a**2)**(1/2):.2f}')#valor atrávez da formula
+print(f'O valor da hipotenusa é {hypot(cateto_a, cateto_o):.2f}')#valor usando a blibioteca math
