@@ -1,6 +1,8 @@
 '''
-Resolva o exercício anterior para as categorias de 1 a 8. Utilize estruturas aninhadas.
+    Resolva o exercício anterior para as categorias de 1 a 8. Utilize estruturas
+    aninhadas.
 '''
+
 categoria = int(input('Categoria do produto: '))
 if categoria == 1:
     print('Preço: $ 0.5')

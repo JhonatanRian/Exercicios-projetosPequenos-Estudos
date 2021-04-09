@@ -1,6 +1,9 @@
 '''
-Escreva um programa que receba dois números de ponto flutuante e mostre na tela o maior número digitado. Considere a possibilidade de o usuário digitar dois números iguais.
+Escreva um programa que receba dois números de ponto flutuante e mostre na 
+tela o maior número digitado. Considere a possibilidade de o usuário digitar
+dois números iguais.
 '''
+
 n1 = float(input('digite um numero: '))
 n2 = float(input('\ndigite outro numero: '))
 if n1 < n2:

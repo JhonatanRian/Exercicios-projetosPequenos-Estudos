@@ -1,5 +1,8 @@
 '''
-O Índice de Massa Corporal (IMC) é utilizado para mensurar o peso ideal de uma pessoa. Escreva um programa que peça o nome, a idade , o peso e a altura do usuário. Ao final calcule e mostre o resultado do seu IMC e classifique este resultado de acordo com a regra a seguir.
+    O Índice de Massa Corporal (IMC) é utilizado para mensurar o peso ideal
+    de uma pessoa. Escreva um programa que peça o nome, a idade , o peso e 
+    a altura do usuário. Ao final calcule e mostre o resultado do seu IMC 
+    e classifique este resultado de acordo com a regra a seguir.
 
     IMC<17 - Muito abaixo do peso ideal
 
@@ -15,9 +18,10 @@ O Índice de Massa Corporal (IMC) é utilizado para mensurar o peso ideal de uma
 
     IMC>=40 - Obesidade III (mórbida)
     
-Lembre que: IMC=massa/(altura*altura)
-Fonte: https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal
+    Lembre que: IMC=massa/(altura*altura)
+    Fonte: https://pt.wikipedia.org/wiki/%C3%8Dndice_de_massa_corporal
 '''
+
 print('\nCalculo do IMC\n')
 nome = str(input(f'Qual seu nome?\n»»')).strip().title()
 idade = int(input(f'\nQual a sua idade?\n»»'))

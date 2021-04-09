@@ -1,5 +1,9 @@
 '''
-Escreva um script que mostre na tela o preço de um produto associado a uma categoria especificada pelo usuário.  Utilize como referência as informações a seguir. Caso o usuário não digite uma categoria válida (número entre 1 e 10) mostre na tela uma mensagem personalizada.
+    Escreva um script que mostre na tela o preço de um produto associado a 
+    uma categoria especificada pelo usuário.  Utilize como referência as 
+    informações a seguir. Caso o usuário não digite uma categoria válida 
+    (número entre 1 e 10) mostre na tela uma mensagem personalizada.
+    
     Exemplo: preço x categoria
     * Categoria 1 - $ 0,5 
     * Categoria 2 - $ 11,3
@@ -12,6 +16,7 @@ Escreva um script que mostre na tela o preço de um produto associado a uma cate
     * Categoria 9 - $ 98,12
     * Categoria 10 - $ 131,4
 '''
+
 categoria = int(input('Digite a categoria do produto: '))
 if categoria == 1:
     print('O preço do produto é: $ 0.5')

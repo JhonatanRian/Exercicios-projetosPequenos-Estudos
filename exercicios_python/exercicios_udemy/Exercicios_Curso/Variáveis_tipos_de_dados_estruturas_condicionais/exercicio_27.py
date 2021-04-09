@@ -1,6 +1,7 @@
 '''
 Escreva um programa que receba três números do usuário e mostre na tela o maior número digitado.
 '''
+
 numero1 = float(input('Número 1: '))
 numero2 = float(input('Número 2: '))
 numero3 = float(input('Número 3: '))
