@@ -1,7 +1,7 @@
 '''
-Faça um programa que peça 5 números de ponto
-flutuante do usuário e apresente no final a
-média dos números digitados.
+    Faça um programa que peça 5 números de ponto
+    flutuante do usuário e apresente no final a
+    média dos números digitados.
 '''
 
 n1 = float(input("numero: "))

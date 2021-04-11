@@ -1,6 +1,8 @@
-'''Faça um programa que solicite um número do usuário e apresente a seguinte mensagem na tela:
-
-O numero digitado foi ...'''
+'''
+    Faça um programa que solicite um número do usuário e apresente a
+    seguinte mensagem na tela:
+    O numero digitado foi ...
+'''
 
 #primeiro modo
 numero = input("Digite um numero: ")

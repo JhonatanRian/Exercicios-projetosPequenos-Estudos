@@ -1,6 +1,6 @@
 '''
-Faça um programa que solicite três números
-inteiros do usuário e imprima a soma destes
+    Faça um programa que solicite três números
+    inteiros do usuário e imprima a soma destes
 '''
 
 n1 = int(input("digite um numero: "))
