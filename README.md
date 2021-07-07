@@ -33,4 +33,4 @@
     Implement simple home merchandise control. for each product store a numeric code, description and quantity.
     The program must have a general inventory report, entry and withdrawal of products in stock data, and report
     of unavailable products.
-![print](https://mega.nz/file/fwgCyYSZ#f1CK751paG63DV9vxekoCKCSXqEHTSZkV3oy1wiWvZE)
+
