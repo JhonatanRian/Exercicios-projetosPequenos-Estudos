@@ -26,3 +26,11 @@
 📚 In this exercise I created a logic to calculate the least common multiple.
 
     I used the itertools library for a prime number generator, the program calculates a list of numbers.
+
+### in /Exercicios-projetos-python-estudos/Geek/06
+📚 In this exercise I use functions in a repetitive system.
+     
+    Implement simple home merchandise control. for each product store a numeric code, description and quantity.
+    The program must have a general inventory report, entry and withdrawal of products in stock data, and report
+    of unavailable products.
+
