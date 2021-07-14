@@ -1,5 +1,6 @@
 import pickle
 from os import system as sy
+from time import sleep
 
 def incluir_produto(cod, desc, quant):
     produto = dict()
@@ -46,7 +47,6 @@ try:
     registros = pickle.load(arquivo)
     arquivo.close()
 except:
-    print("Arquivo não foi aberto")
     pass
 
 while True:
@@ -59,11 +59,11 @@ while True:
             resposta = recolher_dados()
             incluir_produto(*resposta)
             break
-        if opc == "2":
+        elif opc == "2":
             resposta = input("Insira a descrição do produto pra retirar\n»» ")
             retirar_produto(resposta)
             break
-        if opc == "3":
+        elif opc == "3":
             sy("clear")
             for produto in registros:
                 print("\nCódigo: {}".format(produto["código"]))
@@ -72,10 +72,12 @@ while True:
             resposta = input("Digite S para sair\n»» ").upper().split()[0]
             if resposta == "S":
                 break
-        if opc == "4":
+        elif opc == "4":
             encapsular(registros)
             break
-        if opc == "5":
+        elif opc == "5":
             encapsular(registros)
             exit(1)
-        
+        else:
+            print("Erro de digitação")
+            sleep(3)
