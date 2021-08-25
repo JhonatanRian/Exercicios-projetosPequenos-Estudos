@@ -16,7 +16,9 @@ def main():
     try:
         sock.connect((host, int(porta)))
         print("Criado conexão tcp cliente")
-        sock.shutdown(2)
+        sock.sendall(str.encode('Bom dia ae vencedor'))
+        data = sock.recv(1024)
+        print('mensagem ecoada: {}'.format(data.decode()))
     except socket.error as e:
         print(f"Erro: {e}")
         sys.exit()
