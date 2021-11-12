@@ -1,0 +1,148 @@
+1634233647499	geckodriver	INFO	Listening on 127.0.0.1:42339
+1634233648494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1M73MI"
+1634233650269	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1M73MI/search.json.mozlz4", (void 0)))
+1634233652723	Marionette	INFO	Listening on port 33453
+1634233652848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+1634233655447	Marionette	INFO	Stopped listening on port 33453
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634235524256	geckodriver	INFO	Listening on 127.0.0.1:49673
+1634235525253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledB3f7t"
+1634235527095	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledB3f7t/search.json.mozlz4", (void 0)))
+1634235529666	Marionette	INFO	Listening on port 32967
+1634235529716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634235530541	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235531147	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AAD99X98AQAAd2vV-7_nlP4fbDr8kWOpJNbgWBnrBV0b5AnggzhUFQ1XScNV&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634235576650	Marionette	INFO	Stopped listening on port 32967
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634235636137	geckodriver	INFO	Listening on 127.0.0.1:50649
+1634235636146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXdoXSS"
+1634235637235	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXdoXSS/search.json.mozlz4", (void 0)))
+1634235639317	Marionette	INFO	Listening on port 41231
+1634235639385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634235640182	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235640858	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AAD99X98AQAAd2vV-7_nlP4fbDr8kWOpJNbgWBnrBV0b5AnggzhUFQ1XScNV&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634235667053	Marionette	INFO	Stopped listening on port 41231
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13124, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-FLPiQZ/firefox-93.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634235904733	geckodriver	INFO	Listening on 127.0.0.1:33813
+1634235904739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileze90ta"
+1634235905843	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileze90ta/search.json.mozlz4", (void 0)))
+1634235907638	Marionette	INFO	Listening on port 38783
+1634235907707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634235908519	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235909087	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235909394	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235910083	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235910767	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235911461	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235912170	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235912857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235913529	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235914226	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235914538	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634235915223	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AAD99X98AQAAd2vV-7_nlP4fbDr8kWOpJNbgWBnrBV0b5AnggzhUFQ1XScNV&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+1634236196443	Marionette	INFO	Stopped listening on port 38783
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1634236548873	geckodriver	INFO	Listening on 127.0.0.1:49609
+1634236549869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile37rXUx"
+1634236551125	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile37rXUx/search.json.mozlz4", (void 0)))
+1634236553191	Marionette	INFO	Listening on port 38863
+1634236553314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634236555940	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236556513	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236557196	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236557883	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236558188	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236558861	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236559547	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236559854	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236560533	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236561333	Marionette	INFO	Stopped listening on port 38863
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634236583760	geckodriver	INFO	Listening on 127.0.0.1:37131
+1634236583767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOqEKh6"
+1634236584776	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOqEKh6/search.json.mozlz4", (void 0)))
+1634236586597	Marionette	INFO	Listening on port 37985
+1634236586696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634236587500	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236588173	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236589271	Marionette	INFO	Stopped listening on port 37985
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634236621898	geckodriver	INFO	Listening on 127.0.0.1:46807
+1634236621904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQZSIPL"
+1634236622926	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQZSIPL/search.json.mozlz4", (void 0)))
+1634236624478	Marionette	INFO	Listening on port 46297
+1634236624537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634236625337	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236626030	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AEB0EYB8AQAAZCiZf55oBclzpw7W_ApdZI9NSAbJWe6qwF1qdqddRHEtaKxE&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634236756708	Marionette	INFO	Stopped listening on port 46297
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634236856748	geckodriver	INFO	Listening on 127.0.0.1:43853
+1634236856754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0qOZ57"
+1634236857847	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0qOZ57/search.json.mozlz4", (void 0)))
+1634236859765	Marionette	INFO	Listening on port 37921
+1634236859792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634236860573	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236861130	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236861813	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236862493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236862798	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634236863460	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AEB0EYB8AQAAZCiZf55oBclzpw7W_ApdZI9NSAbJWe6qwF1qdqddRHEtaKxE&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634236887700	Marionette	INFO	Stopped listening on port 37921
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634237604781	geckodriver	INFO	Listening on 127.0.0.1:57273
+1634237604790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile59KQy0"
+1634237605823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile59KQy0/search.json.mozlz4", (void 0)))
+1634237607619	Marionette	INFO	Listening on port 32989
+1634237607721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634237608544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237609224	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237609902	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237610580	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237611256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237611925	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237612607	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237613285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237613968	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237614636	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237615317	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237615986	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237616671	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237617344	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237617657	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634237618319	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AEB0EYB8AQAAZCiZf55oBclzpw7W_ApdZI9NSAbJWe6qwF1qdqddRHEtaKxE&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634237642210	Marionette	INFO	Stopped listening on port 32989
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]

@@ -1,0 +1,22 @@
+<!-- <div id="sr-widget" data-sr-widget="match.matchList" data-sr-sport-id="1"></div>
+<script type="application/javascript" src="https://widgets.sir.sportradar.com/sportradar/widgetloader" async></script> -->
+
+<!-- <script>
+    (function(a,b,c,d,e,f,g,h,i){a[e]||(i=a[e]=function(){(a[e].q=a[e].q||[]).push(arguments)},i.l=1*new Date,i.o=f,
+    g=b.createElement(c),h=b.getElementsByTagName(c)[0],g.async=1,g.src=d,g.setAttribute("n",e),h.parentNode.insertBefore(g,h)
+    )})(window,document,"script","https://widgets.sir.sportradar.com/sportradar/widgetloader","SIR", {
+        language: 'en'
+    });
+    SIR('addWidget', '#sr-widget', 'match.matchList', {sportId: 1});
+</script>
+<div id="sr-widget"></div> -->
+
+<script>
+    (function(a,b,c,d,e,f,g,h,i){a[e]||(i=a[e]=function(){(a[e].q=a[e].q||[]).push(arguments)},i.l=1*new Date,i.o=f,
+    g=b.createElement(c),h=b.getElementsByTagName(c)[0],g.async=1,g.src=d,g.setAttribute("n",e),h.parentNode.insertBefore(g,h)
+    )})(window,document,"script","https://widgets.sir.sportradar.com/sportradar/widgetloader","SIR", {
+        language: 'br'
+    });
+    SIR('addWidget', '#sr-widget', 'match.matchList', {sportId: 1, onItemClick: function(type, obj){alert('matchId: ' + obj.matchId);}});
+</script>
+<div id="sr-widget"></div>

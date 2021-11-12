@@ -38,7 +38,7 @@ for item in lista:
     li.append(r)
 
 """
-import requests, threading
+import requests
 
 # download de imagem
 req = requests.get("https://images7.alphacoders.com/593/593278.jpg")
