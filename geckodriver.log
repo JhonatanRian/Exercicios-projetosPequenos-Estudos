@@ -1,148 +1,558 @@
-1634233647499	geckodriver	INFO	Listening on 127.0.0.1:42339
-1634233648494	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1M73MI"
-1634233650269	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1M73MI/search.json.mozlz4", (void 0)))
-1634233652723	Marionette	INFO	Listening on port 33453
-1634233652848	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-JavaScript error: resource:///actors/FormValidationChild.jsm, line 177: TypeError: this._element is null
-JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
-1634233655447	Marionette	INFO	Stopped listening on port 33453
-JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
-1634235524256	geckodriver	INFO	Listening on 127.0.0.1:49673
-1634235525253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledB3f7t"
-1634235527095	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledB3f7t/search.json.mozlz4", (void 0)))
-1634235529666	Marionette	INFO	Listening on port 32967
-1634235529716	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1634235530541	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235531147	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AAD99X98AQAAd2vV-7_nlP4fbDr8kWOpJNbgWBnrBV0b5AnggzhUFQ1XScNV&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1634235576650	Marionette	INFO	Stopped listening on port 32967
-JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1633643462587	geckodriver	INFO	Listening on 127.0.0.1:49077
+1633643463576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGOpRbL"
+1633643464661	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGOpRbL/search.json.mozlz4", (void 0)))
+1633643466185	Marionette	INFO	Listening on port 33797
+1633643466307	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8953612832270972, line 229: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1633643469207	Marionette	INFO	Stopped listening on port 33797
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1634235636137	geckodriver	INFO	Listening on 127.0.0.1:50649
-1634235636146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXdoXSS"
-1634235637235	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXdoXSS/search.json.mozlz4", (void 0)))
-1634235639317	Marionette	INFO	Listening on port 41231
-1634235639385	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1634235640182	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235640858	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AAD99X98AQAAd2vV-7_nlP4fbDr8kWOpJNbgWBnrBV0b5AnggzhUFQ1XScNV&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1634235667053	Marionette	INFO	Stopped listening on port 41231
-JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
-console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-[Parent 13124, IPC I/O Parent] WARNING: FileDescriptorSet destroyed with unconsumed descriptors: file /build/firefox-FLPiQZ/firefox-93.0+build1/ipc/chromium/src/chrome/common/file_descriptor_set_posix.cc:19
+1633643517061	geckodriver	INFO	Listening on 127.0.0.1:35625
+1633643517066	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileructVF"
+1633643518040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileructVF/search.json.mozlz4", (void 0)))
+1633643519627	Marionette	INFO	Listening on port 33469
+1633643519702	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8953612832270972, line 229: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1633643522452	Marionette	INFO	Stopped listening on port 33469
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1634235904733	geckodriver	INFO	Listening on 127.0.0.1:33813
-1634235904739	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileze90ta"
-1634235905843	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileze90ta/search.json.mozlz4", (void 0)))
-1634235907638	Marionette	INFO	Listening on port 38783
-1634235907707	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1634235908519	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235909087	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235909394	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235910083	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235910767	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235911461	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235912170	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235912857	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235913529	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235914226	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235914538	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634235915223	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AAD99X98AQAAd2vV-7_nlP4fbDr8kWOpJNbgWBnrBV0b5AnggzhUFQ1XScNV&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1633643948396	geckodriver	INFO	Listening on 127.0.0.1:41209
+1633643948400	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexUbXq4"
+1633643949401	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexUbXq4/search.json.mozlz4", (void 0)))
+1633643951122	Marionette	INFO	Listening on port 36449
+1633643951229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8953612832270972, line 229: uncaught exception: TagError: adsbygoogle.push() error: All ins elements in the DOM with class=adsbygoogle already have ads in them.
+1633643955003	Marionette	INFO	Stopped listening on port 36449
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633644001249	geckodriver	INFO	Listening on 127.0.0.1:35667
+1633644001253	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTBN63M"
+1633644002223	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTBN63M/search.json.mozlz4", (void 0)))
+1633644003588	Marionette	INFO	Listening on port 40409
+1633644003682	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1633644022400	Marionette	INFO	Stopped listening on port 40409
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: services.settings: main/message-groups sync interrupted by shutdown
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+1633644038409	geckodriver	INFO	Listening on 127.0.0.1:34117
+1633644038414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletpWRWH"
+1633644039372	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletpWRWH/search.json.mozlz4", (void 0)))
+1633644040715	Marionette	INFO	Listening on port 46073
+1633644040745	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1633644063020	Marionette	INFO	Stopped listening on port 46073
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1633644157521	geckodriver	INFO	Listening on 127.0.0.1:48697
+1633644158525	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUrfwLa"
+1633644159490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileUrfwLa/search.json.mozlz4", (void 0)))
+1633644161007	Marionette	INFO	Listening on port 33699
+1633644161056	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1633644163853	Marionette	INFO	Stopped listening on port 33699
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634420401700	geckodriver	INFO	Listening on 127.0.0.1:55509
+1634420401706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileuKi5Lx"
+1634420402759	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuKi5Lx/search.json.mozlz4", (void 0)))
+1634420404412	Marionette	INFO	Listening on port 36673
+1634420404447	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634420425139	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634420425731	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634420426042	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634420426355	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634420427040	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634420427349	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634420428044	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AMD3Aot8AQAA2zqPW6djNxm3FE3ZcX8lExVay4JQ1yljWSZ_Zg4eBhMPjiCH&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AMD3Aot8AQAA2zqPW6djNxm3FE3ZcX8lExVay4JQ1yljWSZ_Zg4eBhMPjiCH&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bet365.com/#/HO/ line 9 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bet365.com"
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+1634442417077	Marionette	INFO	Stopped listening on port 36673
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634442425461	geckodriver	INFO	Listening on 127.0.0.1:49341
+1634442426459	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile1UoBsw"
+1634442427849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1UoBsw/search.json.mozlz4", (void 0)))
+1634442429615	Marionette	INFO	Listening on port 44345
+1634442429695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634442587346	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634442588155	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634442588970	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634442589776	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634442590104	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634442590906	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AMCOTIx8AQAAwdcFCIy5QqcW5iqb7mJScHZsD23tsLVnU5LPmMNyeYRZafjI&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AMCOTIx8AQAAwdcFCIy5QqcW5iqb7mJScHZsD23tsLVnU5LPmMNyeYRZafjI&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bet365.com/#/HO/ line 9 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
 JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
-1634236196443	Marionette	INFO	Stopped listening on port 38783
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/inspectorActor3, type cancelPickColorFromPage failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhideEyeDropper@resource://devtools/client/inspector/inspector.js:1804:32\n_onPickerStarting@resource://devtools/client/framework/toolbox.js:1974:32\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/domwalker30, type pick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\npick@resource://devtools/client/fronts/walker.js:494:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_onInspectorFrontAvailable@resource://devtools/client/inspector/node-picker.js:89:18\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/domwalker30, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:506:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\ntogglePicker@resource://devtools/client/inspector/node-picker.js:66:19\n_onPickerClick@resource://devtools/client/framework/toolbox.js:1945:23\nonClick@resource://devtools/client/framework/toolbox.js:1529:17\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:227:18\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_beforeShowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:356:22\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:543:26\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_showBoxModel@resource://devtools/client/inspector/markup/markup.js:718:40\n_onMouseMove@resource://devtools/client/inspector/markup/markup.js:497:12\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type show failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nshow@resource://devtools/client/fronts/highlighters.js:27:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nshowHighlighterTypeForNode@resource://devtools/client/inspector/shared/highlighters-overlay.js:581:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967316/customhighlighter183, type hide failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nhide@resource://devtools/client/fronts/highlighters.js:32:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\nhideHighlighterType@resource://devtools/client/inspector/shared/highlighters-overlay.js:640:23\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_hideBoxModel@resource://devtools/client/inspector/markup/markup.js:731:40\n_onMouseOut@resource://devtools/client/inspector/markup/markup.js:699:16\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.warn: "Inspector destroyed while executing onReflow callback"
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 90))
+console.error: "Error while calling actor 'watcher's method 'watchResources'" "An attempt was made to use an object that is not, or is no longer, usable"
+console.error: (new InvalidStateError("An attempt was made to use an object that is not, or is no longer, usable", (void 0), 90))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: "Error sending event: display-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:802:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:383:33
+form@resource://devtools/server/actors/inspector/node.js:207:7
+write@resource://devtools/shared/protocol/types.js:363:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:215:33
+write@resource://devtools/shared/protocol/types.js:215:16
+write@resource://devtools/shared/protocol/Request.js:109:22
+write@resource://devtools/shared/protocol/Request.js:39:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:593:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:314:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.error: (new TypeError("nodeFront.walkerFront is null", "resource://devtools/client/inspector/markup/markup.js", 951))
+TypeError: nodeFront.walkerFront is null: _onNewSelection@resource://devtools/client/inspector/markup/markup.js:951:7
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new Error("Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+Error: Can not send request 'getAllSelectors' because front 'domnode' is already destroyed.: generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:28:15
+updateSelectionCssSelectors@resource://devtools/client/inspector/inspector.js:1451:32
+onNewSelection@resource://devtools/client/inspector/inspector.js:1522:10
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+setNodeFront@resource://devtools/client/framework/selection.js:161:10
+onDetached@resource://devtools/client/inspector/inspector.js:1650:20
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+_onMutations@resource://devtools/client/framework/selection.js:104:12
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.warn: "Got a mutation for an unexpected actor: server0.conn1.windowGlobal4294967316/domnode176, please file a bug on bugzilla.mozilla.org!"
+console.trace: 
+resource://devtools/client/fronts/walker.js 211 getMutations
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1001))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.windowGlobal4294967316/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.windowGlobal4294967316/pagestyle28 (resource://devtools/server/actors/page-style.js:1001:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.windowGlobal4294967316/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.windowGlobal4294967316/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.windowGlobal4294967316/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.windowGlobal4294967316/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.warn: "IGNORED REDUX ACTION:" "MESSAGES_ADD"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+console.warn: "IGNORED REDUX ACTION:" "MESSAGES_ADD"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AADAQ418AQAAtLRykg2Ufx3ldKlieaP78zT4dede2WYmoUSac3wcS-OUx5qg&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn8.windowGlobal4294967359/pagestyle26 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn8.windowGlobal4294967359/pagestyle26 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+console.warn: "IGNORED REDUX ACTION:" "MESSAGES_ADD"
+1634494456812	geckodriver	INFO	Listening on 127.0.0.1:36529
+1634494457805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileFgiXxz"
+1634494459040	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFgiXxz/search.json.mozlz4", (void 0)))
+1634494461015	Marionette	INFO	Listening on port 41611
+1634494461141	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634494469259	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634494470098	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AAARaY98AQAAN-r9FFPagrlZ7UoosD62anMOht4v4FRt0bdGtu1fA0D9pyY3&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AAARaY98AQAAN-r9FFPagrlZ7UoosD62anMOht4v4FRt0bdGtu1fA0D9pyY3&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bet365.com/#/HO/ line 9 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967309/domwalker27, type cancelPick failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ncancelPick@resource://devtools/client/fronts/walker.js:506:18\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\n_onInspectorFrontDestroyed@resource://devtools/client/inspector/node-picker.js:113:18\nstop@resource://devtools/client/inspector/node-picker.js:176:18\n_destroyToolbox@resource://devtools/client/framework/toolbox.js:3734:24\ndestroy@resource://devtools/client/framework/toolbox.js:3672:10\ncloseToolbox@resource://devtools/client/framework/toolbox.js:3648:16\nonClick@resource://devtools/client/framework/components/ToolboxToolbar.js:456:26\ninvokeGuardedCallbackImpl@resource://devtools/client/shared/vendor/react-dom.js:74:10\ninvokeGuardedCallback@resource://devtools/client/shared/vendor/react-dom.js:111:29\ninvokeGuardedCallbackAndCatchFirstError@resource://devtools/client/shared/vendor/react-dom.js:125:25\nexecuteDispatch@resource://devtools/client/shared/vendor/react-dom.js:346:42\nexecuteDispatchesInOrder@resource://devtools/client/shared/vendor/react-dom.js:365:20\nexecuteDispatchesAndRelease@resource://devtools/client/shared/vendor/react-dom.js:462:29\nexecuteDispatchesAndReleaseTopLevel@resource://devtools/client/shared/vendor/react-dom.js:470:10\nforEachAccumulated@resource://devtools/client/shared/vendor/react-dom.js:444:8\nrunEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:598:21\nrunExtractedEventsInBatch@resource://devtools/client/shared/vendor/react-dom.js:606:19\nhandleTopLevel@resource://devtools/client/shared/vendor/react-dom.js:4272:30\nbatchedUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15752:12\nbatchedUpdates@resource://devtools/client/shared/vendor/react-dom.js:1882:12\ndispatchEvent@resource://devtools/client/shared/vendor/react-dom.js:4351:19\ninteractiveUpdates$1/<@resource://devtools/client/shared/vendor/react-dom.js:15803:14\nunstable_runWithPriority@resource://devtools/client/shared/vendor/react.js:617:12\ninteractiveUpdates$1@resource://devtools/client/shared/vendor/react-dom.js:15802:12\ninteractiveUpdates@resource://devtools/client/shared/vendor/react-dom.js:1901:10\ndispatchInteractiveEvent@resource://devtools/client/shared/vendor/react-dom.js:4328:21\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bet365.com"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bet365.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bet365.com"
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 46: TypeError: composedTarget is null
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 46: TypeError: composedTarget is null
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 46: TypeError: composedTarget is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.bet365.com"
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2309))
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AIBQxZF8AQAAvZA0s8PNkIQEC3qz2NOdbDWzJCpfT0iF0iu4Wagm1o722UZ1&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1634534978502	Marionette	INFO	Stopped listening on port 41611
 JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
 console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
-1634236548873	geckodriver	INFO	Listening on 127.0.0.1:49609
-1634236549869	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile37rXUx"
-1634236551125	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile37rXUx/search.json.mozlz4", (void 0)))
-1634236553191	Marionette	INFO	Listening on port 38863
-1634236553314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1634236555940	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236556513	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236557196	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236557883	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236558188	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236558861	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236559547	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236559854	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236560533	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236561333	Marionette	INFO	Stopped listening on port 38863
-JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
-1634236583760	geckodriver	INFO	Listening on 127.0.0.1:37131
-1634236583767	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOqEKh6"
-1634236584776	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOqEKh6/search.json.mozlz4", (void 0)))
-1634236586597	Marionette	INFO	Listening on port 37985
-1634236586696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1634236587500	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236588173	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236589271	Marionette	INFO	Stopped listening on port 37985
-JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
-1634236621898	geckodriver	INFO	Listening on 127.0.0.1:46807
-1634236621904	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQZSIPL"
-1634236622926	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQZSIPL/search.json.mozlz4", (void 0)))
-1634236624478	Marionette	INFO	Listening on port 46297
-1634236624537	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1634236625337	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236626030	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AEB0EYB8AQAAZCiZf55oBclzpw7W_ApdZI9NSAbJWe6qwF1qdqddRHEtaKxE&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1634236756708	Marionette	INFO	Stopped listening on port 46297
-JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
-1634236856748	geckodriver	INFO	Listening on 127.0.0.1:43853
-1634236856754	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0qOZ57"
-1634236857847	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0qOZ57/search.json.mozlz4", (void 0)))
-1634236859765	Marionette	INFO	Listening on port 37921
-1634236859792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1634236860573	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236861130	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236861813	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236862493	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236862798	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634236863460	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AEB0EYB8AQAAZCiZf55oBclzpw7W_ApdZI9NSAbJWe6qwF1qdqddRHEtaKxE&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1634236887700	Marionette	INFO	Stopped listening on port 37921
-JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634534983592	geckodriver	INFO	Listening on 127.0.0.1:38499
+1634534984598	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2lsKHy"
+1634534986321	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2lsKHy/search.json.mozlz4", (void 0)))
+1634534988105	Marionette	INFO	Listening on port 43373
+1634534988151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634534992276	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634534992851	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634534993169	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634534993844	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634534994516	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634534994837	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634534995505	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AIBQxZF8AQAAvZA0s8PNkIQEC3qz2NOdbDWzJCpfT0iF0iu4Wagm1o722UZ1&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AMDH4JF8AQAADH62d2bdZmx1yTIiTlu7LQ3BXhlWqkjbLN16t-587w1qvuZJ&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bet365.com/#/HO/ line 9 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 46: TypeError: composedTarget is null
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource://devtools/server/actors/network-monitor/network-event-actor.js, line 109: Error: Got a request https://www.gstatic.com/recaptcha/releases/qljbK_DTcvY1PzbR7IG69z1r/styles__ltr.css without a browsingContextID set
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2942: TypeError: event.target.closest is not a function
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 570))
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
 
-###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
-
-1634237604781	geckodriver	INFO	Listening on 127.0.0.1:57273
-1634237604790	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile59KQy0"
-1634237605823	Marionette	INFO	Marionette enabled
-console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile59KQy0/search.json.mozlz4", (void 0)))
-1634237607619	Marionette	INFO	Listening on port 32989
-1634237607721	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
-1634237608544	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237609224	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237609902	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237610580	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237611256	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237611925	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237612607	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237613285	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237613968	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237614636	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237615317	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237615986	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237616671	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237617344	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237617657	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-1634237618319	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
-JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AEB0EYB8AQAAZCiZf55oBclzpw7W_ApdZI9NSAbJWe6qwF1qdqddRHEtaKxE&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
-1634237642210	Marionette	INFO	Stopped listening on port 32989
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn2.windowGlobal4294967314/pagestyle28 (resource://devtools/server/actors/page-style.js:570:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1634545850233	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+GeckoDriver.prototype.fullscreenWindow@chrome://remote/content/marionette/driver.js:2401:11
+1634545980469	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:238:19
+TimedPromise@chrome://remote/content/marionette/sync.js:223:10
+GeckoDriver.prototype.fullscreenWindow@chrome://remote/content/marionette/driver.js:2401:11
+1634574822318	Marionette	INFO	Stopped listening on port 43373
 JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634583272150	geckodriver	INFO	Listening on 127.0.0.1:47731
+1634583273137	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileSRB7Vo"
+1634583274798	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileSRB7Vo/search.json.mozlz4", (void 0)))
+1634583276724	Marionette	INFO	Listening on port 33753
+1634583276846	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1634583312476	Marionette	INFO	Stopped listening on port 33753
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634583316833	geckodriver	INFO	Listening on 127.0.0.1:50893
+1634583317836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilef3P4h8"
+1634583318881	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilef3P4h8/search.json.mozlz4", (void 0)))
+1634583320326	Marionette	INFO	Listening on port 40307
+1634583320379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+1634583345913	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634583346421	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634583346923	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634583347613	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634583348301	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634583351914	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634583352619	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634583353320	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1634583369296	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AEDkqpR8AQAAaWJayXKKKZafdU8SLrSoeraX4jwD_m_oHztHl_ziSYyQcRXI&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://www.bet365.com/members/services/host/Scripts/js/ProductCommon_v1.js?seed=AEDkqpR8AQAAaWJayXKKKZafdU8SLrSoeraX4jwD_m_oHztHl_ziSYyQcRXI&PIRXTcSdwp--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://www.bet365.com/#/HO/ line 9 > injectedScript, line 1: SyntaxError: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: resource:///actors/ClickHandlerChild.jsm, line 46: TypeError: composedTarget is null
+1634585268157	Marionette	INFO	Stopped listening on port 40307
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1635602871977	geckodriver	INFO	Listening on 127.0.0.1:47831
+1635602872963	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile3NzvzQ"
+1635602874058	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3NzvzQ/search.json.mozlz4", (void 0)))
+1635602875771	Marionette	INFO	Listening on port 44393
+1635602875900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635602961822	Marionette	INFO	Stopped listening on port 44393
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1635603149422	geckodriver	INFO	Listening on 127.0.0.1:42547
+1635603149425	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--proxy-server=51.68.207.814:443" "-no-remote" "-profile" "/tmp/rust_mozprofilej9XqZS"
+1635603150471	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej9XqZS/search.json.mozlz4", (void 0)))
+1635603151973	Marionette	INFO	Listening on port 42701
+1635603152055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1635603155106	Marionette	INFO	Stopped listening on port 42701
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+JavaScript error: , line 0: uncaught exception: undefined
+1635603383447	geckodriver	INFO	Listening on 127.0.0.1:58655
+1635603384452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--proxy-server=51.68.207.814:443" "-no-remote" "-profile" "/tmp/rust_mozprofiletwNuHP"
+1635603385492	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletwNuHP/search.json.mozlz4", (void 0)))
+1635603387031	Marionette	INFO	Listening on port 43803
+1635603387087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/k0WdL_18o0JQ1tSTirwhWAKlI_j4jAibtndxAZll28w.js line 1 > eval line 7725 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.

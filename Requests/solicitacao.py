@@ -41,7 +41,7 @@ for item in lista:
 import requests
 
 # download de imagem
-req = requests.get("https://images7.alphacoders.com/593/593278.jpg")
+req = requests.get("https://img.sportradar.com/ls/crest/medium/en.png")
 
 imagem = open("Imagem.jpg", "bw") #ABRE EM MODO BINARIO E ESCRITA
 
