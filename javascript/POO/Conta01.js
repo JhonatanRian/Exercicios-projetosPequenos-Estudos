@@ -27,4 +27,3 @@ class ContaBancaria {
         throw new Error("metodo sacar() precisa ser implementado")
     }
 }
-
